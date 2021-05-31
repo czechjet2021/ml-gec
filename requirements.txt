@@ -1,2 +1,1 @@
-# git+git://github.com/arahusky/tensor2tensor.git@075a590ca1cf82e9dfbcc1b974b72ab1da6ed447
-git+file:///home/azureuser/cloudfiles/code/Users/jsvojgr05/ml_cs/tensor2tensor
+git+file://./tensor2tensor
